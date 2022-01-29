@@ -1,0 +1,71 @@
+#circle_red{
+
+    background: red;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#circle_blue{
+
+    background: blue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#circle_yellow{
+
+    background: yellow;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#circle_purple{
+
+    background: purple;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#circle_green{
+
+    background: green;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#circle_orange{
+
+    background: rgb(254, 165, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
